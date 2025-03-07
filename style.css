@@ -1,0 +1,36 @@
+#firstpic {
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.2p0A7-_uu0UxCBb67jtCTAHaE8&pid=Api&P=0&h=180);
+    background-size: cover;
+    /* Ensures the image covers the entire screen */
+    background-position: center;
+    /* Centers the image */
+    background-repeat: no-repeat;
+    /* Prevents repeating */
+    height: 45vh;
+
+
+}
+
+
+#second-pic {
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.e3J8O_Y-CWgHSCvFMDv98gHaEK&pid=Api&P=0&h=180);
+    height: 45vh;
+    background-size: cover;
+    /* Ensures the image covers the entire screen */
+    background-position: center;
+    /* Centers the image */
+    background-repeat: no-repeat;
+    /* Prevents repeating */
+}
+
+#contact-form {
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.J6ooEHyj14oSgVIReF1_WAHaEo&pid=Api&P=0&h=180);
+
+    height: 45rem;
+    background-size: cover;
+    /* Ensures the image covers the entire screen */
+    background-position: center;
+    /* Centers the image */
+    background-repeat: no-repeat;
+    /* Prevents repeating */
+}
